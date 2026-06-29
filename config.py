@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 SESSION_NAME = getenv("SESSION_NAME", "session")
-BOT_TOKEN = getenv("8709552170:AAELuLrOYtjCe02IK_Nv3fndv_yl10gSqqg")
+BOT_TOKEN = getenv("8997217671:AAHsnnp2mhmDBhNq_QKJcUtFSmhvfd70vvU")
 BOT_NAME = getenv("ميوزك")
 
 API_ID = int(getenv("38841029"))
